@@ -12,7 +12,7 @@ Aquí debes añadir la descripción del dataset y un enunciado del dominio del p
   * **fp.common**: Paquete que contiene los tipos auxiliares del proyecto
   * **fp.utiles**:  Paquete que contiene las clases de utilidad. 
 * **/data**: Contiene el dataset del proyecto
-    * **Car_sales.csv**: Archivo csv que contiene los datos referentes a los coches en venta de un concesionario.
+    * **carSales.csv**: Archivo csv que contiene los datos referentes a los coches en venta de un concesionario.
     
 ## Estructura del *dataset*
 
@@ -33,7 +33,7 @@ El dataset original Car_sales.csv se puede obtener de la URL http://kaggle.com/w
 
 DLos tipos que se han implementado en el proyecto son los siguientes:
 
-### Tipo Base
+### Tipo Base - Coche
 DRepresenta los datos importantes de coche en cocnreto a la hora de comprarlo. Propiedades:
 
 **Propiedades**:
@@ -72,42 +72,40 @@ DRepresenta los datos importantes de coche en cocnreto a la hora de comprarlo. P
 - ...
 
 #### Tipos auxiliares
-* getEstadoCoche, de tipo EstadoCoche, consultable. Es una propiedad derivada que se obtiene a partir de la propiedad registrationDate e indica el estado del coche, en cuanto a si se trata de un coche antiguo o más nuevo. Puede tomar los valores ANTIGUO, MODERNO.
-* getMarketPrice, de tipo Double, consultable. Es una propiedad derivada que se obtiene a partir de las propiedades getEstadoCoche y manufacturerPrice e indica el precio del coche en el mercado, es decir, su valor de venta al pública.
+* TipoCoche, enumerado: Puede tomar los valores MONOVOLUMEN, DEPORTIVO, TODOTERRENO y TURISMO.
+* EstadoCoche, enumerado: Puede tomar los valores MODERNO y ANTIGUO.
+* Color, enumerado: Puede tomar los valores BLACK, WHITE, RED, BLUE y GREY.
 
-### Factoría
-Descripción breve de la factoría.
+* Measurements:Representa las medidas del coche con las siguientes propiedades:
+* engineSize, de tipo Double, consultable. Contiene el tamaño del motor del coche.
+* width, de tipo Double, consultable. Contiene la anchura del coche.
+* length, de tipo Double, consultable. Contiene la longitud del coche.
 
-- _método 1_: Descripción del método 1.
--	_método 2_: Descripción del método 2.
+### Factoría - FactoriaConcesionario
+Clase de factoría para construir objetos de tipo Coche.
 
-### Tipo Contenedor
+-* List<Coche> leerCoche(String nombreFichero): Crea una lista cuyos elementos son de tipo Coche a partir de la información recogida en el archivo csv, cuya ruta se da como parámetro.
+-* Coche parseaCoche(String lineaCSV): Este método recibe una linea del fichero y la parsea creando un objeto de la clase Coche.
 
-Descripción breve del tipo contenedor.
+### Tipo Contenedor - Concesionario
+
+DClase contenedora de los objetos de tipo Coche.
 
 **Propiedades**:
 
-- _propiedad1_, de tipo \<Tipo1\>, consultable. 
-- _propiedad2_, de tipo \<Tipo2\>, consultable y modificable. 
-- ...
+- * coches, de tipo List<Coche>, consultable. Lista de coches. 
 - 
 **Constructores**: 
 
-- C1: Descripción del constructor 1.
+- C1: Constructor por defecto. Creal un objeto de tipo Concesionario sin ningun elemento de la clase Coche almacenado.
 - C2: Descripción del constructor 2.
+
+*Criterio de igualdad**: Dos objetos de tipo Coche son iguales si su propiedad básica, coches, es igual.
+
+*Otras operaciones**:
+
+
+
+	_método 1_: Descripción del método 1.
 - ...
 
-**Restricciones**:
- 
-- R1: Descripción de la restricción 1.
-- R2: Descripción de la restricción 2.
-- ...
-- 
-**Criterio de igualdad**: Describir el criterio de igualdad
-
-**Criterio de ordenación**: Describir el criterio de ordenación (si lo hay).
-
-**Otras operaciones**:
- 
--	_método 1_: Descripción del método 1.
-- ...
