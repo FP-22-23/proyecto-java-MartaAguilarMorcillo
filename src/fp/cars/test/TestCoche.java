@@ -34,6 +34,16 @@ public class TestCoche {
 		System.out.println(coches.getListaCochesPorMarca());
 		System.out.println(coches.getNumeroCochesPorColor());
 		System.out.println(coches.getNumeroCoches());
+		System.out.println(coches.existeCocheMarcaColorDadosStream("Acura", Color.BLACK));
+		System.out.println(coches.MediaPotenciaCochesAnyoDadoStream(2009));
+		System.out.println(coches.getMonovolumenesMenorPrecioStream(12000.0));
+		System.out.println(coches.getCocheNoAveriadoMarcaDadaMenorPrecioStream("Acura"));
+		System.out.println(coches.getMarcasOrdenadasPorPreciosCochesMatriculadosDespuesAñoDadoStream(2014, 3));
+		System.out.println(coches.getNumeroCochesPorColorStream());
+		System.out.println(coches.getListaPotenciasPorCadaTipoDeCocheStream());
+		System.out.println(coches.getCocheMenorPrecioPorMarcaStream());
+		System.out.println(coches.getListaNMayoresVolumenesDeCochePorAño(2));
+		System.out.println(coches.getMarcaMayorPotenciaAcumulada());
 		
 		
 
