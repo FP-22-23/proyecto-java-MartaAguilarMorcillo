@@ -1,0 +1,158 @@
+Manufacturer,Color,Manufacturer price,Damaged vehicle,Horsepower,Engine size,Width,Length,Registration date,Characteristics
+Acura,Black,16919.5,FALSE,140,1.8,67.3,172.4,02/02/2014,techo solar&asientos cuero&ayuda frenada
+Acura,White,39384.4,FALSE,225,3.2,70.3,192.9,06/03/2015,GPS&llantas&ayuda frenada
+Acura,Red,14114.3,TRUE,225,3.2,70.6,192,01/04/2014,GPS&pantalla
+Acura,Blue,8588.2,FALSE,210,3.5,71.4,196.6,03/10/2015,GPS&pantalla&ayuda frenada
+Audi,Grey,20397.6,FALSE,150,1.8,68.2,178,10/08/2015,ABS&llantas&asientos cuero
+Audi,Grey,18787.7,TRUE,200,2.8,76.1,192,08/09/2015,ABS&eléctrico&llantas&3 puertas
+Audi,Red,13826.8,TRUE,310,4.2,74,198.2,27/02/2014,asientos cuero&pantalla&llantas&3 puertas
+BMW,Black,19747.9,FALSE,170,2.5,68.4,176,28/06/2015,pantalla&eléctrico&android&llantas
+BMW,Blue,9231.2,FALSE,193,2.8,68.5,176,29/01/2014,ABS&ayuda frenada
+BMW,White,17527.3,FALSE,193,2.8,70.9,188,04/04/2015,GPS&android&3 puertas
+Buick,Black,61561.4,FALSE,175,3.1,72.7,194.6,11/02/2015,asientos cuero&llantas&ayuda frenada&3 puertas
+Buick,Red,3935.5,TRUE,240,3.8,72.7,196.2,09/03/2015,GPS&android&llantas&3 puertas
+Buick,Grey,27851.6,TRUE,205,3.8,74.7,206.8,23/03/2014,GPS&eléctrico&3 puertas
+Buick,Grey,33257.7,TRUE,205,3.8,73.5,200,23/07/2015,GPS&asientos cuero&eléctrico
+Cadillac,Blue,23729.8,TRUE,275,4.6,74.5,207.2,23/02/2014,techo solar&pantalla&android
+Cadillac,Red,15943.9,TRUE,275,4.6,75,201,29/04/2015,GPS&eléctrico&techo solar&3 puertas
+Cadillac,White,6536.1,TRUE,275,4.6,75.5,200.6,27/11/2015,techo solar&asientos cuero&android&ayuda frenada
+Cadillac,Black,11185.9,TRUE,200,3,70.3,194.8,28/09/2015,techo solar&pantalla&eléctrico
+Cadillac,White,14785.8,TRUE,255,5.7,77,201.2,17/04/2014,techo solar&android&eléctrico&GPS
+Chevrolet,Grey,14551.7,TRUE,115,2.2,67.9,180.9,17/08/2015,pantalla&android&llantas&3 puertas
+Chevrolet,Black,13512.6,TRUE,170,3.1,69.4,190.4,19/03/2014,GPS&asientos cuero&ABS&techo solar
+Chevrolet,White,24629.5,FALSE,175,3.1,72.5,200.9,24/05/2015,ABS&llantas&3 puertas
+Chevrolet,Red,42593.9,FALSE,180,3.4,72.7,197.9,22/12/2015,GPS&ABS&pantalla
+Chevrolet,Blue,26402.8,FALSE,200,3.8,74.1,193.2,23/10/2015,ABS&llantas&asientos cuero
+Chevrolet ,Grey,17947.7,TRUE,345,5.7,73.6,179.7,05/12/2014,techo solar&asientos cuero&eléctrico&3 puertas
+Chevrolet,Black,32299.6,FALSE,120,1.8,66.7,174.3,09/11/2015,android&ayuda frenada
+Chevrolet ,Grey,21855.5,TRUE,55,1,62.6,149.4,13/04/2014,techo solar&ABS&GPS
+Chevrolet,Red,10799.2,TRUE,180,3.4,73,200,18/06/2015,ABS&ayuda frenada&3 puertas
+Chrysler,Blue,7854.3,FALSE,163,2.5,69.7,190.9,16/01/2014,GPS&ABS&llantas
+Chrysler,White,23775.4,TRUE,168,2.5,69.2,193,17/11/2015,GPS&asientos cuero&android&ABS
+Chrysler,Red,13148.5,FALSE,200,2.7,74.4,209.1,06/06/2014,techo solar&android&pantalla&llantas
+Chrysler,White,30306.6,TRUE,132,2,71,186,10/06/2015,GPS&eléctrico&techo solar
+Chrysler,Blue,13462.7,TRUE,253,3.5,74.4,207.7,05/08/2014,techo solar&asientos cuero&pantalla&llantas
+Chrysler ,Black,5348.8,TRUE,.,.,.,.,13/07/2015,ABS&llantas
+Chrysler,Grey,30696.9,FALSE,253,3.5,74.4,197.8,02/10/2014,asientos cuero&android&llantas&ayuda frenada
+Dodge,Grey,7603.2,TRUE,132,2,74.4,174.4,12/12/2015,techo solar&asientos cuero&android
+Dodge,Red,5734.3,TRUE,163,2.5,69.1,190.2,07/01/2014,pantalla&ABS&android&GPS
+Dodge,Black,17186.4,FALSE,168,2.5,71,186,31/10/2015,eléctrico&ayuda frenada
+Dodge,White,25028.5,FALSE,202,2.7,74.7,203.7,06/02/2014,GPS&ABS
+Dodge,Grey,9160.6,FALSE,450,8,75.7,176.7,08/07/2015,ABS&pantalla&llantas
+Dodge,Black,22706.7,TRUE,230,5.2,79.3,224.2,03/06/2014,ABS&pantalla&llantas&ayuda frenada
+Dodge,Grey,16767.8,TRUE,175,3.9,78.8,192.6,01/06/2014,techo solar&ABS&eléctrico&ayuda frenada
+Dodge,Blue,31038.9,TRUE,175,3.9,78.8,208.5,26/07/2014,ABS&eléctrico&3 puertas
+Dodge,Red,11131.3,TRUE,120,2.5,71.5,215,25/11/2015,GPS&ABS&eléctrico&ayuda frenada
+Dodge,White,10132.3,TRUE,230,5.2,71.7,193.5,27/06/2014,GPS&asientos cuero&pantalla&llantas
+Dodge,Black,18174.9,TRUE,150,2.4,76.8,186.3,09/01/2015,GPS&asientos cuero&3 puertas
+Ford,Black,7022.7,FALSE,110,2,67,174.7,31/03/2014,GPS&asientos cuero&ABS
+Ford,Red,11336.9,TRUE,190,3.8,73.1,183.2,31/01/2014,pantalla&asientos cuero&android&ayuda frenada
+Ford,Grey,8506.8,TRUE,170,2.5,69.1,184.6,20/08/2014,techo solar&eléctrico&llantas&ayuda frenada
+Ford,Black,24581.5,FALSE,155,3,73,197.6,20/12/2015,pantalla&android&llantas
+Ford,Grey,17567.6,FALSE,107,2,66.9,174.8,22/07/2014,GPS&android&eléctrico&techo solar
+Ford,White,23403.6,TRUE,200,4.6,78.2,212,26/09/2015,GPS&pantalla&llantas&3 puertas
+Ford,Blue,27674.7,FALSE,210,4,70.2,190.7,25/04/2014,android&ayuda frenada&3 puertas
+Ford,Grey,15578.7,TRUE,150,3,76.6,200.9,25/02/2014,techo solar&pantalla&android&ayuda frenada
+Ford,Red,12533.8,FALSE,240,4.6,78.7,204.6,14/09/2014,GPS&ABS&llantas
+Ford,Black,22065.5,TRUE,119,2.5,69.4,200.7,14/01/2014,GPS&ABS&ayuda frenada&3 puertas
+Ford,White,24056.1,TRUE,220,4.6,79.1,224.5,16/08/2014,GPS&ABS&android&llantas
+Honda,White,19968.5,TRUE,106,1.6,67.1,175.1,21/10/2015,GPS&eléctrico&llantas&3 puertas
+Honda,Black,23090.2,TRUE,135,2.3,70.3,188.8,20/05/2014,techo solar&android&pantalla&3 puertas
+Honda,Blue,7320.3,TRUE,146,2,68.9,177.6,21/03/2014,GPS&android&eléctrico&3 puertas
+Honda,White,12855.8,FALSE,205,3.2,70.4,178.2,10/09/2014,asientos cuero&android&ABS
+Honda,Black,36029.7,TRUE,210,3.5,75.6,201.2,02/08/2014,techo solar&pantalla&ayuda frenada
+Hyundai,White,21184.4,FALSE,92,1.5,65.7,166.7,09/10/2014,GPS&ABS&eléctrico
+Hyundai,Red,16692.6,TRUE,140,2,66.9,174,15/11/2015,pantalla&android&ayuda frenada
+Hyundai,Blue,9945.4,TRUE,148,2.4,71.6,185.4,14/06/2014,techo solar&android&eléctrico&3 puertas
+Infiniti,Grey,23713.1,TRUE,227,3,70.2,193.7,15/04/2014,GPS&ABS&techo solar
+Jaguar,Grey,15467.2,TRUE,240,3,71.6,191.3,11/03/2014,ABS&pantalla&eléctrico&asientos cuero
+Jeep,Black,25557.5,FALSE,120,2.5,66.7,152,03/04/2014,techo solar&android&llantas&ayuda frenada
+Jeep,White,20556.8,TRUE,190,4,69.4,167.5,10/05/2014,techo solar&eléctrico&llantas
+Jeep,Grey,15704.4,TRUE,195,4,72.3,181.5,12/10/2015,techo solar&eléctrico&ayuda frenada
+Lexus,Grey,24072.2,FALSE,210,3,70.5,190.2,07/09/2014,ABS&llantas&3 puertas
+Lexus,Blue,12698.3,FALSE,225,3,70.9,189.2,05/10/2014,GPS&asientos cuero&eléctrico&ABS
+Lexus,White,5334.5,TRUE,300,4,70.9,189.2,28/11/2014,pantalla&android&llantas
+Lexus,Red,6375.6,FALSE,290,4,72,196.7,29/03/2014,GPS&eléctrico
+Lexus,Red,9126.7,TRUE,230,4.7,76.4,192.5,30/10/2014,asientos cuero&android&eléctrico
+Lexus,Black,21238.5,FALSE,220,3,71.5,180.1,01/04/2014,GPS&android&eléctrico&ayuda frenada
+Lincoln,Grey,13798.1,FALSE,275,4.6,73.6,208.5,08/03/2014,android&eléctrico&llantas&3 puertas
+Lincoln,Black,18911.4,FALSE,215,4.6,78.2,215.3,06/04/2014,android&eléctrico&ayuda frenada&3 puertas
+Lincoln,Grey,22925.3,TRUE,300,5.4,79.9,204.8,23/12/2015,techo solar&GPS&3 puertas
+Mitsubishi,White,26232.8,TRUE,113,1.8,66.5,173.6,23/04/2014,eléctrico&llantas&ayuda frenada
+Mitsubishi,Blue,22541.4,FALSE,154,2.4,68.9,175.4,24/11/2015,ABS&pantalla&asientos cuero&3 puertas
+Mitsubishi,Red,30616.5,TRUE,145,2.4,68.5,187.8,29/01/2014,ABS&pantalla&3 puertas
+Mitsubishi,Red,5711.8,FALSE,210,3.5,70.3,194.1,28/08/2014,android&eléctrico&3 puertas
+Mitsubishi,Blue,11000.1,FALSE,161,3,72.4,180.3,29/06/2014,eléctrico&ayuda frenada&3 puertas
+Mitsubishi,White,11337.6,FALSE,200,3.5,69.9,186.6,17/01/2014,GPS&pantalla&ayuda frenada
+Mitsubishi,Red,19348.3,FALSE,173,3,66.7,178.3,18/05/2014,GPS&android&ayuda frenada
+Mercury,White,14351.2,TRUE,125,2,69.1,184.8,19/12/2009,eléctrico&llantas&ayuda frenada
+Mercury,Grey,26529.7,FALSE,125,2,69.6,185,23/02/2008,techo solar&ABS&llantas
+Mercury,Blue,17956.6,TRUE,153,3,73,199.7,22/09/2014,GPS&asientos cuero&llantas&3 puertas
+Mercury,Grey,21174.8,TRUE,200,4.6,78.2,212,24/07/2014,llantas&3 puertas
+Mercury,Grey,27609.9,TRUE,210,4,70.2,190.1,13/02/2008,ABS&ayuda frenada
+Mercury,Black,20380.8,TRUE,170,3.3,74.9,194.7,20/10/2009,asientos cuero&pantalla&ayuda frenada&3 puertas
+Mercedes-Benz,White,18392.2,FALSE,185,2.3,67.7,177.4,24/04/2015,techo solar&pantalla&GPS&3 puertas
+Mercedes-Benz,Red,27602.4,FALSE,221,3.2,70.8,189.4,07/12/2015,GPS&techo solar&ayuda frenada
+Mercedes-Benz,Blue,16774.1,TRUE,275,4.3,73.1,203.1,13/06/2014,techo solar&ayuda frenada&3 puertas
+Mercedes-Benz,Grey,33110.3,FALSE,302,5,71.3,177.1,17/03/2015,techo solar&asientos cuero&llantas&ayuda frenada
+Mercedes-Benz,Red,7998.9,TRUE,190,2.3,67.5,157.9,16/01/2015,pantalla&3 puertas
+Mercedes-Benz,Blue,8526.1,TRUE,185,2.3,67.5,157.3,08/06/2015,asientos cuero&ABS&ayuda frenada
+Mercedes-Benz,Black,11592.1,TRUE,215,3.2,67.8,180.3,07/08/2015,android&ayuda frenada&3 puertas
+Mercedes-Benz,White,9540.9,TRUE,302,5,73.1,196.6,04/11/2015,asientos cuero&llantas&ayuda frenada
+Mercedes-Benz,Blue,28976.1,FALSE,215,3.2,72.2,180.6,02/10/2015,techo solar&ayuda frenada
+Nissan,White,22643.4,TRUE,126,1.8,67.3,177.5,31/08/2015,llantas&ayuda frenada
+Nissan,Red,18094.8,TRUE,155,2.4,69.1,183.5,08/02/2015,ABS&llantas
+Nissan,Grey,19853.7,FALSE,222,3,70.3,190.5,05/06/2015,eléctrico&llantas&3 puertas
+Nissan,Black,27308.2,FALSE,170,3.3,74.9,194.8,03/07/2015,asientos cuero&llantas&3 puertas
+Nissan,Grey,32574.4,FALSE,170,3.3,71.7,182.6,25/09/2015,pantalla&eléctrico&android
+Nissan,Blue,14158.5,TRUE,170,3.3,70.4,178,24/01/2008,ABS&ayuda frenada&android&3 puertas
+Nissan,Black,25005.6,FALSE,170,3.3,66.5,196.1,27/08/2015,asientos cuero&llantas&ayuda frenada
+Oldsmobile,Red,11120.1,TRUE,150,3.1,69.4,192,31/05/2015,GPS&android&llantas
+Oldsmobile,Grey,18554.3,FALSE,215,3.5,73.6,195.9,04/01/2015,eléctrico&3 puertas
+Oldsmobile,White,20255.8,FALSE,150,2.4,70.1,186.7,20/10/2009,GPS&asientos cuero
+Oldsmobile,Black,14699.6,TRUE,250,4,74.4,205.4,18/02/2015,techo solar&android
+Oldsmobile,Grey,20017.2,TRUE,190,4.3,67.8,181.2,21/09/2015,GPS&techo solar&3 puertas
+Oldsmobile,Black,24361.4,TRUE,185,3.4,72.2,201.4,25/06/2015,asientos cuero&android&ayuda frenada
+Plymouth,White,32734.3,FALSE,132,2,74.4,174.4,26/04/2015,techo solar&android&eléctrico
+Plymouth,Red,5240.5,TRUE,132,2,71,186.3,14/11/2015,pantalla&android&llantas
+Plymouth,Blue,24155.9,TRUE,150,2.4,76.8,186.3,24/04/2015,llantas&ABS&techo solar
+Plymouth,Grey,18720.8,FALSE,253,3.5,76.3,165.4,27/06/2014,techo solar&asientos cuero&3 puertas
+Pontiac,Red,21645.5,FALSE,150,2.4,68.4,181.9,25/01/2014,android&ayuda frenada&GPS&pantalla
+Pontiac,Black,13109.7,FALSE,175,3.4,70.4,186.3,26/11/2014,ayuda frenada&3 puertas
+Pontiac,Red,19911.9,FALSE,200,3.8,74.5,193.4,16/06/2014,GPS&asientos cuero&android
+Pontiac,Grey,12364.5,TRUE,195,3.8,72.7,196.5,15/10/2014,techo solar&pantalla&llantas
+Pontiac,Blue,15945.3,TRUE,205,3.8,72.6,202.5,18/05/2015,eléctrico&techo solar
+Pontiac,Red,29572.3,FALSE,185,3.4,72.7,201.3,22/07/2014,asientos cuero&pantalla
+Porsche,White,8982.1,FALSE,217,2.7,70.1,171,19/02/2014,android&llantas&ayuda frenada
+Porsche,Black,12800.2,TRUE,300,3.4,69.5,174.5,21/12/2014,pantalla&ABS&GPS
+Porsche,Blue,18661.8,TRUE,300,3.4,69.5,174.5,07/11/2015,eléctrico&ayuda frenada
+Saab,Black,9191.9,TRUE,170,2.3,70.6,189.2,11/09/2014,ABS&pantalla&llantas
+Saab,Blue,12115.2,FALSE,185,2,67.4,182.2,06/12/2015,techo solar&eléctrico
+Saturn,Grey,8062.6,FALSE,100,1.9,66.4,176.9,16/08/2014,ABS&3 puertas
+Saturn,Black,24546.4,FALSE,100,1.9,66.4,180,16/03/2015,GPS&ayuda frenada
+Saturn,Grey,7223.5,FALSE,124,1.9,66.4,176.9,15/01/2015,asientos cuero&3 puertas
+Saturn,White,8472.4,FALSE,137,2.2,69,190.4,08/05/2015,pantalla&ayuda frenada
+Saturn,Black,19989.9,TRUE,137,2.2,69,190.4,12/04/2014,ABS&android
+Subaru,Grey,17107.7,FALSE,165,2.5,67.5,185.8,07/07/2015,techo solar&eléctrico&llantas
+Subaru,Blue,33028.3,TRUE,165,2.5,68.3,175.2,09/10/2014,android&llantas
+Toyota,Red,14253.5,TRUE,120,1.8,66.7,174,04/11/2015,GPS&eléctrico&techo solar
+Toyota,White,24799.4,TRUE,133,2.2,70.1,188.5,02/10/2015,GPS&pantalla&3 puertas
+Toyota,Black,23849.6,FALSE,210,3,71.7,191.9,31/08/2015,techo solar&pantalla&android
+Toyota,Black,13269.2,TRUE,140,1.8,68.3,170.5,29/12/2009,GPS&ABS&eléctrico
+Toyota,White,14087.8,FALSE,142,2.4,66.5,178.7,08/01/2015,GPS&android&eléctrico
+Toyota,Black,25119.6,FALSE,194,3,73.4,193.5,10/05/2014,asientos cuero&ABS
+Toyota,Blue,25106.8,TRUE,127,2,66.7,163.8,05/06/2015,techo solar&ayuda frenada
+Toyota,Red,28411.6,TRUE,150,2.7,66.5,183.3,03/07/2015,pantalla&android&ayuda frenada&ABS
+Toyota,Black,9835.9,FALSE,230,4.7,76.4,192.5,25/09/2015,pantalla&GPS
+Volkswagen,White,9761.3,FALSE,115,2,68.3,163.3,24/01/2015,techo solar&3 puertas
+Volkswagen,Black,23721.8,FALSE,115,2,68.3,172.3,27/08/2015,GPS&techo solar
+Volkswagen,White,21102.5,TRUE,150,1.8,68.5,184.1,30/10/2014,ABS&pantalla&asientos cuero
+Volkswagen,Red,9569.9,TRUE,115,2,66.7,160.4,31/05/2015,android&llantas&ayuda frenada
+Volkswagen,Blue,15960.5,TRUE,115,2,68.3,163.3,04/01/2015,techo solar&eléctrico&llantas
+Volkswagen,Grey,19463.4,TRUE,115,2,67.9,161.1,20/10/2015,ABS&llantas&eléctrico
+Volvo,Black,16957.3,FALSE,160,1.9,67.6,176.6,18/02/2015,GPS&asientos cuero&ABS
+Volvo,Black,30545.5,FALSE,160,1.9,67.6,176.6,21/09/2015,pantalla&llantas
+Volvo,Red,15245.7,TRUE,168,2.4,69.3,185.9,24/11/2014,GPS&eléctrico&android
+Volvo,Grey,17531.2,TRUE,168,2.4,69.3,186.2,25/06/2015,android&eléctrico&3 puertas
+Volvo,White,9493.9,TRUE,236,2.3,71.5,185.7,26/04/2015,android&eléctrico&ayuda frenada&llantas
+Volvo,Blue,18969.8,TRUE,201,2.9,72.1,189.8,14/11/2015,techo solar&GPS
