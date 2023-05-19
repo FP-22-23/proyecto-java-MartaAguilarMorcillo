@@ -99,11 +99,12 @@ Clase contenedora de los objetos de tipo Coche.
 **Propiedades**:
 
 - coches, de tipo List<Coche>, consultable. Lista de coches. 
-- 
+
 **Constructores**: 
 
 - C1: Constructor por defecto. Creal un objeto de tipo Concesionario sin ningun elemento de la clase Coche almacenado.
 - C2: Constructor con un parámetro de tipo Collection<Coche>. Crea un objeto de tipo Concesionario con los coches incluidos en la colección dada como parámetro.
+- C3: Constructor con un parámetro de tipo Stream<Coche>. Crea un objeto de tipo Concesionario con los coches incluidas en el Stream dado
 
 **Criterio de igualdad**: : Dos objetos de tipo Coche son iguales si su propiedad básica, coches, es igual.
 
@@ -120,4 +121,15 @@ Clase contenedora de los objetos de tipo Coche.
 * Set<Coche> getMonovolumenesMenorPrecio(Double precio): Este método devuelve el conjunto de coches que son considerados monovolumenes y cuyo precio es menor que el pasado como parámetro.
 * Map<String, List<Coche>> getListaCochesPorMarca(): Este método devuelve un map en el que las claves son las distintas marcas de coches y los valores la lista de los coches que pertenecen a la marca pertinente.
 * Map<Color, Integer> getNumeroCochesPorColor(): El método devuelve un map en el que las claves son los colores de coche y los valores el numero total de coches de dicho color.
+* Boolean existeCocheMarcaColorDadosStream(String marca, Color color): Este método resuelto por streams devuelve un booleano indicando si algunos de los objetos de tipo Coche es de la marca y el color pasados como parámetros.
+* Double MediaPotenciaCochesAnyoDadoStream(Integer anyo): Este método resuelto por streams devuelve la media de la potencia que tienen todos los coches que se matricularon en el año pasado como parámetro.
+* Set<Coche> getMonovolumenesMenorPrecioStream(Double precio): Este método resuelto por streams devuelve el conjunto de coches que son considerados monovolumenes y cuyo precio es menor que el pasado como parámetro.
+* Coche getCocheNoAveriadoMarcaDadaMenorPrecioStream(String marca): Este método devuelve el coche que no esté averiado y que sea de la marca pasada como parámetro que menos cuesta, es decir, cuyo precio es menor.
+* List<String> getMarcasOrdenadasPorPreciosCochesMatriculadosDespuesAñoDadoStream(Integer anyo, Integer n): Este método devuelve una lista ordenada por precios de las n marcas de los n coches matriculados después del año pasado por parámetro.
+* Map<Color, Integer> getNumeroCochesPorColorStream(): Este método resuelto por streams devuelve un map en el que las claves son los colores de coche y los valores el numero total de coches de dicho color.
+* Map<TipoCoche, List<Integer>> getListaPotenciasPorCadaTipoDeCocheStream(): El método devuelve un map en el que las claves son los distintos tipos de coches que hay y los valores una lista las potencias que tienen todos los coches que son de dicho tipo.
+* Map<String, Coche> getCocheMenorPrecioPorMarcaStream(): Este método devuelve un map en el que las claves son las distintas marcas de coche y los valores el coche de dicha marca con el menor precio de mercado.
+* SortedMap<Integer, Set<Double>> getListaNMayoresVolumenesDeCochePorAño(Integer n): Este método devuelve un map en el que las claves son los años de matriculación de los coches y los valores una lista ordenada de los n mayores volumenes que tienen los coches matriculados ese año. 
+* Set<Double> faux(List<Coche> coches, Integer n): Esta función auxiliar de la función getListaNMayoresVolumenesDeCochePorAño() transforma una lista de coches en un conjunto de los n mejores volumenes de coches.
+* String getMarcaMayorPotenciaAcumulada(): Este método devuelve la marca de coche que tiene una mayor potencia acumulada entre todos los coches de dicha marca.
 
